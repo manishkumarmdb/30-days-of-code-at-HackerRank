@@ -2,7 +2,7 @@ package com.hackerrank.contests.daysOfCode_30;
 
 import java.util.Scanner;
 
-public class Day6_LetsReview {
+public class Day06_LetsReview {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
