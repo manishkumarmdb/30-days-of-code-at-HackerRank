@@ -2,7 +2,7 @@ package com.hackerrank.contests.daysOfCode_30;
 
 import java.util.Scanner;
 
-public class Day4_LogicalOperatorsClassVsInstance {
+public class Day04_LogicalOperatorsClassVsInstance {
 
 	int age;
 
