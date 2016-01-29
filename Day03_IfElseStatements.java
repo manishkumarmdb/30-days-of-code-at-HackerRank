@@ -2,7 +2,7 @@ package com.hackerrank.contests.daysOfCode_30;
 
 import java.util.Scanner;
 
-public class Day3_IfElseStatements {
+public class Day03_IfElseStatements {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
