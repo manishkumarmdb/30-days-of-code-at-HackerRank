@@ -2,7 +2,7 @@ package com.hackerrank.contests.daysOfCode_30;
 
 import java.util.Scanner;
 
-public class Day9_Recursion {
+public class Day09_Recursion {
 	
 	static  int find_gcd(int a,int b){
         //Write the base condition
