@@ -2,7 +2,7 @@ package com.hackerrank.contests.daysOfCode_30;
 
 import java.util.Scanner;
 
-public class Day5_Loops {
+public class Day05_Loops {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
