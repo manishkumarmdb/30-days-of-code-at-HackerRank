@@ -3,7 +3,7 @@ package com.hackerrank.contests.daysOfCode_30;
 import java.util.Arrays;
 
 @SuppressWarnings("unused")
-public class Day1_DataTypes {
+public class Day01_DataTypes {
 	
 	
 	public static void main(String[] args) {
